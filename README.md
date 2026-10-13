@@ -28,6 +28,7 @@ public_release/
 │   │   └── pca/                      # PCA outputs
 │   └── interaction_effect_analysis/  # Liver and whole-blood interaction analysis
 └── README.md
+```
 
 Run scripts from code/analysis/. Tissue-specific scripts require the
 TISSUE_CODE environment variable:
