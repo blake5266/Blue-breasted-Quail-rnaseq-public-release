@@ -54,7 +54,7 @@ reportable enriched terms were obtained for that analysis.
 ## Data availability
 
 Raw sequencing reads are deposited in the NCBI Sequence Read Archive under
-BioProject accession `PRJNAxxxxxx`.
+BioProject accession `PRJNA 1543245`.
 
 
 ## License
